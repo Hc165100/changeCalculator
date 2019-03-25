@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#changeWindow {
+  border: black solid 2px;
+  height: 100px;
+  width: 250px;
+  margin: 15px;
+}
+
+#itemCost {
+  width: 100px;
+  text-align: center;
+}
+
+#moneyGiven {
+  width: 100px;
+  text-align: center;
+}
+
+#calcBtn {
+  height: 25px;
+  width: 150px;
+  border: 2px solid darkgray;
+  border-radius: 12px;
+  background: darkgray;
+  margin: 5px;
+}
+
+#clearBtn {
+  height: 25px;
+  width: 150px;
+  border: 2px solid darkgray;
+  border-radius: 12px;
+  background: darkgray;
+  margin: 5px;
+}
